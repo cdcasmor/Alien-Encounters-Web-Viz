@@ -1,4 +1,8 @@
-# Unit 14 | Assignment - JavaScript and DOM Manipulation
+[![built with CSS](https://img.shields.io/badge/built%20with-CSS-red.svg)](https://www.python.org/)
+[![built with HTML5](https://img.shields.io/badge/built%20with-HTML5-yellowgreen.svg)](https://www.python.org/)
+[![built with javascript](https://img.shields.io/badge/built%20with-javascript-brightgreen.svg)](https://www.python.org/)
+[![built with D3](https://img.shields.io/badge/built%20with-D3-yellow.svg)](https://www.python.org/)
+
 
 ## Background
 
